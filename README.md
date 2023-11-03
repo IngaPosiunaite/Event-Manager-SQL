@@ -1,4 +1,4 @@
-<h4> Event Management System
+<h3> Event Management System
 
 <h5> A simple event management system was designed and built. Delegates have individual records in the system. Each delegate can provide details of their personal information (name, their date of birth, email address, and contact telephone number).
 
